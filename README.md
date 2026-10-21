@@ -35,6 +35,10 @@ Build meaningful projects, contribute to open source, and grow into a skilled so
 - c: one line about it 
 
 
+## social links 
+- github:https://github.com/ https://parthkathar27-bit.github.io/git-project-parthkathar/
+- linkedin https://www.linkedin.com/in/parth-kathar-593882437/
+
 
 
 
