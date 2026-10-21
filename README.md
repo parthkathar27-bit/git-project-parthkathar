@@ -25,9 +25,16 @@ Build meaningful projects, contribute to open source, and grow into a skilled so
 
 
 ## skills 
--communication 
--problem solving 
--basic git 
+- communication 
+- problem solving 
+- basic git 
+
+
+## project 
+- java: one line about it 
+- c: one line about it 
+
+
 
 
 
